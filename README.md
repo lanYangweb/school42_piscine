@@ -1,2 +1,2 @@
 # school42_piscine
-piscineCodeOfLan
+Piscine Code of Lan on Sepember 2024
